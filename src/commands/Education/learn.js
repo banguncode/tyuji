@@ -25,7 +25,7 @@ module.exports = {
 
         const txt =  `        *━━━❰ Jujutsu Tech ❱━━━*
 
-⭐️Konnichiwa ${PushName} if your interested in joining  Jujutsu Tech you can follow the tips below:
+⭐️Konnichiwa ${pushName} if your interested in joining  Jujutsu Tech you can follow the tips below:
 〽️1.Dm Jujutsu Tech founder with your name,age,email and contact number, You will spot the number below
 〽️2.Join Jujutsu Tech whatsapp group.
 
