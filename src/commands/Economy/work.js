@@ -8,11 +8,11 @@ module.exports = {
    react: "💼",
    start: async(client, m, { text, prefix, isBotAdmin,isAdmin,mentionByTag}) => {
       const works = [
-        { name: 'Programmer', min: 100, max: 200 },
-        { name: 'Designer', min: 80, max: 150 },
-        { name: 'Writer', min: 70, max: 120 },
-        { name: 'Photographer', min: 90, max: 180 },
-        { name: 'Teacher', min: 60, max: 100 },
+        { name: 'Programmer', min: 10000, max: 200000 },
+        { name: 'Designer', min: 8000, max: 15000 },
+        { name: 'Writer', min: 7000, max: 12000 },
+        { name: 'Photographer', min: 9000, max: 18000 },
+        { name: 'Teacher', min: 6000, max: 10000 },
         { name: 'Hacker', min: 50000, max: 1000000}
     ]
     const work = getRandomWork(works)
