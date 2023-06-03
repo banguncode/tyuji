@@ -15,7 +15,7 @@ module.exports = {
 
         const n = [
 
-            'https://telegra.ph/file/17b41e81f52736e6cf50f.mp4'
+            'https://telegra.ph/Yuji-06-03-2'
 
         ]
 
