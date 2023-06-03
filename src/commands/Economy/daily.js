@@ -21,8 +21,8 @@ module.exports = {
   }
 
   const lastDaily = economy.lastDaily;
-  const now = moment.tz('Asia/Tehran');
-  economy.wallet += 500;
+  const now = moment.tz('Africa/Blantyre');
+  economy.wallet += 1000;
   economy.lastDaily = now;
   await economy.save();
 
@@ -36,10 +36,10 @@ module.exports = {
     }
 
     if (!buttonText) {
-      economy.wallet += 500;
+      economy.wallet += 1000;
       economy.lastDaily = now;
       await economy.save();
-      buttonText = `You claimed your daily 500 coins! | ${pushName}`;
+      buttonText = `You claimed your daily 1000 coins! | ${pushName}`;
     }
   await client.sendMessage(m.from, {text: buttonText}, { quoted: m });
 }
