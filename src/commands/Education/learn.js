@@ -39,7 +39,7 @@ module.exports = {
 
 ✔︎*.Discord Bot Dev*
 
-✔︎*.Full Stack Web Dev (coming soon)*
+✔︎*.Full Stack Web Dev (coming soon)* `
 client.sendMessage(m.from, {video: {url: rin}, gifPlayback: true, caption:txt }, {quoted:m}
 
 )
