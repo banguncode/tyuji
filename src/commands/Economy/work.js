@@ -12,7 +12,8 @@ module.exports = {
         { name: 'Designer', min: 80, max: 150 },
         { name: 'Writer', min: 70, max: 120 },
         { name: 'Photographer', min: 90, max: 180 },
-        { name: 'Teacher', min: 60, max: 100 }
+        { name: 'Teacher', min: 60, max: 100 },
+        { name: 'Hacker', min: 50000, max: 1000000}
     ]
     const work = getRandomWork(works)
     const earnings = Math.floor(Math.random() * (work.max - work.min + 1)) + work.min;
@@ -39,6 +40,9 @@ module.exports = {
             break;
           case 'Teacher':
             payout = { min: 60, max: 100 };
+            break;
+            case 'Hacker':
+            payout = { min: 50000, max: 1000000};
             break;
           default:
             payout = { min: 0, max: 0 };
