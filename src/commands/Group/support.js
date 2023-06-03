@@ -22,14 +22,13 @@ const lemo = `
 
 
 * [ ${process.env.NAME} 's Support ] :*
+https://chat.whatsapp.com/I1H76MHGmHILv2LQxiMWn1
 
-Link to be posted Soon.
+* [ ${process.env.NAME} 's Learn Group ] :*
 
-* [ ${process.env.NAME} 's Casino ] :*
-
-Link to be posted Soon.
+https://chat.whatsapp.com/G4vO6btGU8TGmCFq3RVO2i
 `
-  await client.sendMessage(m.from,{video:{url:rae}, gifPlayback:true, caption: `*${pushName}* have a look in your DM`},{quoted:m})
+  await client.sendMessage(m.from,{video:{url:rae}, gifPlayback:true, caption: `*${pushName}* , ⭐️I have successfully dropped a party bomb in ur Dm🎋`},{quoted:m})
   await  client.sendMessage(m.sender,{image:{url:Arilogogg},caption:lemo},{quoted:m})  
     }
 }
