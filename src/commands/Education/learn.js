@@ -6,6 +6,8 @@ module.exports = {
     usage: `${prefa}jt`,
 
     react: "💻",
+  
+    footer:"Galaxia",
 
     desc: "Displays Ways too learn coding",
 
@@ -26,8 +28,9 @@ module.exports = {
         const txt =  `        *━━━❰ Jujutsu Tech ❱━━━*
 
 ⭐️Konnichiwa ${pushName} if your interested in joining  Jujutsu Tech you can follow the tips below:
+
 〽️1.Dm Jujutsu Tech founder with your name,age,email and contact number, You will spot the number below
-〽️2.Join Jujutsu Tech whatsapp group.
+/n 〽️2.Join Jujutsu Tech whatsapp group./n
 
      *✞︎Jujutsu Tech Courses✞︎*
 
@@ -39,7 +42,15 @@ module.exports = {
 
 ✔︎*.Discord Bot Dev*
 
-✔︎*.Full Stack Web Dev (coming soon)* `
+✔︎*.Full Stack Web Dev (coming soon)* 
+
+*✞︎Jujutsu Tech Support✞︎
+
+🔗Link= https://chat.whatsapp.com/LXkoyBjdp9iLwVKHeUrRjZ /n
+*👑Founder:* http://wa.me/+265990169520 /n
+*〽️Co-Founder:* http://wa.me/+27729378630 /n
+
+`
 client.sendMessage(m.from, {video: {url: rin}, gifPlayback: true, caption:txt }, {quoted:m}
 
 )
