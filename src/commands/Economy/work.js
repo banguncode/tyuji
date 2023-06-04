@@ -27,19 +27,19 @@ module.exports = {
       
         switch (work.name) {
           case 'Programmer':
-            payout = { min: 100, max: 200 };
+            payout = { min: 10000, max: 200000 };
             break;
           case 'Designer':
-            payout = { min: 80, max: 150 };
+            payout = { min: 8000, max: 15000 };
             break;
           case 'Writer':
-            payout = { min: 70, max: 120 };
+            payout = { min: 7000, max: 12000 };
             break;
           case 'Photographer':
-            payout = { min: 90, max: 180 };
+            payout = { min: 9000, max: 18000 };
             break;
           case 'Teacher':
-            payout = { min: 60, max: 100 };
+            payout = { min: 6000, max: 10000 };
             break;
             case 'Hacker':
             payout = { min: 50000, max: 1000000};
