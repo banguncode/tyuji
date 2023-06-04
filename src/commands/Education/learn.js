@@ -1,16 +1,10 @@
 module.exports = {
   name: "learn",
-
     alias: ["lrn", "jt"],
-
     usage: `${prefa}jt`,
-
     react: "💻",
-
     desc: "Displays Ways too learn coding",
-
     category: "Education",
-
     start: async (client,m,{text,ban,pushName,mentionByTag,iscreator,args,body,quoted,mime,prefix}) => {
 
         const n = [
