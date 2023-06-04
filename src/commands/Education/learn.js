@@ -21,7 +21,7 @@ module.exports = {
 
 ⭐️Konnichiwa ${pushName} if your interested in joining  Jujutsu Tech you can follow the tips below:
 
-〽️1.Dm Jujutsu Tech founder with your name,age,email and contact number, You will spot the number below
+〽️1.Dm Jujutsu Tech founder with your name age email and contact number You will spot the number below
 
 〽️2.Join Jujutsu Tech whatsapp group.
 
@@ -35,9 +35,9 @@ module.exports = {
 
 ✔︎*.Discord Bot Dev*
 
-✔︎*.Full Stack Web Dev (coming soon)* 
+✔︎*.Full Stack Web Dev coming soon* 
 
-*✞︎Jujutsu Tech Support✞︎
+*✞︎Jujutsu Tech Support✞︎*
 
 🔗Link= https://chat.whatsapp.com/LXkoyBjdp9iLwVKHeUrRjZ 
 
