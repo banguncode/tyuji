@@ -1,10 +1,16 @@
+module.exports = {
+  name:"guess",
+  alias:["g"],
+  useage:`${prefa}guess character name`,
+  react:"🧧",
+  desc:"anime character game"
 // Assuming you already have the required dependencies and setup for your WhatsApp bot
 
 const characters = [
 
-  { name: "Naruto Uzumaki", image: "https://example.com/naruto.jpg" },
-
-  { name: "Monkey D. Luffy", image: "https://example.com/luffy.jpg" },
+  { name: "Naruto Uzumaki", image: "https://wallpapercave.com/w/wp11902405" },
+  { name: "Roronoa Zoro", image: "https://wallpapercave.com/w/wp8650098" },
+  {name : "Ash Ketchum", image: "https://wallpapercave.com/w/wp2351206"},
 
   // Add more anime characters with their names and image URLs
 
