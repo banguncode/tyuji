@@ -1,4 +1,4 @@
-const guess require = (axios)
+const guess = require("axios")
 module.exports = {
   name:"guess",
   alias:["g"],
