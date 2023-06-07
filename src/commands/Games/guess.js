@@ -1,4 +1,4 @@
-const axios = require("axios");
+const Axios = require("axios");
 module.exports = {
   name:"guess",
   alias:["g"],
