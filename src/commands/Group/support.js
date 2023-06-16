@@ -17,7 +17,7 @@ const Arilogogg = "https://images.app.goo.gl/8kz77zKAZYeV19dL9"
         
                          
 const lemo = `
-*━『 Support Group Links 』━*
+*━『 GALAXIA Support Group Links 』━*
 
 
 
