@@ -59,8 +59,8 @@
     "heroku-prebuild": "npm install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Aku",
+  "author": "Yuji",
   "license": "AGPL-3.0",
-  "repository": "https://github.com/Eximinati/Ari-Ani.git",
+  "repository": "https://github.com/hackeryuji67/tyuji.git",
   "private": false
 }
