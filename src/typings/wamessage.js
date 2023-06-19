@@ -1,5 +1,5 @@
 const { extensionForMediaMessage, extractMessageContent, jidNormalizedUser, getContentType, normalizeMessageContent, proto, delay, downloadContentFromMessage, getBinaryNodeChild } = require("@adiwajshing/baileys")
-const baileys = require("@whiskeysockets/baileys")
+const baileys = require("@whiskysockets/baileys")
 const fs = require("fs")
 const chalk = require("chalk")
 const FileType = require("file-type")
