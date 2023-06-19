@@ -1,4 +1,4 @@
-const { initAuthCreds, BufferJSON, proto } = require('@whiskeysockets/baileys')
+const { initAuthCreds, BufferJSON, proto } = require('@whiskysockets/baileys')
 const Database = require('./database')
 
 module.exports = class Authenication {
