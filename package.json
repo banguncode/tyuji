@@ -5,7 +5,7 @@
   "main": "heart.js",
   "type": "commonjs",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.2.1",
+    "@whiskysockets/baileys": "^6.2.1",
     "@adiwajshing/keyed-db": "^0.2.4",
     "anime-wallpaper": "^1.1.1",
     "axios": "1.2.2",
