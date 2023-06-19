@@ -8,7 +8,7 @@ const {
   jidDecode,
   fetchLatestBaileysVersion,
   delay,
-} = require("@whiskeysockets/baileys");
+} = require("@whiskysockets/baileys");
 const fs = require("fs");
 const pino = require("pino");
 const path = require("path");
