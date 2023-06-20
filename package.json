@@ -5,10 +5,9 @@
   "main": "heart.js",
   "type": "commonjs",
   "dependencies": {
-    "@whiskysockets/baileys": "^6.2.1",
-    "@adiwajshing/keyed-db": "^0.2.4",
+    "@whiskeysockets/baileys": "6.3.0",
     "anime-wallpaper": "^1.1.1",
-    "axios": "1.2.2",
+    "axios": "1.4.0",
     "better-sqlite3": "^8.3.0",
     "better-tord": "^1.3.7",
     "canvacord": "^5.4.8",
